@@ -1,0 +1,4 @@
+[submodule "dependency-track"]
+	path = dependency-track
+	url = https://github.com/stevespringett/dependency-track.git
+	branch = 3.0-dev
